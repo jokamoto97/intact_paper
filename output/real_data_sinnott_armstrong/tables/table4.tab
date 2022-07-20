@@ -1,0 +1,10 @@
+Trait	Pathway	n_proximity	n_intact	n_overlap
+IGF_1_all	Downstream signaling	9	7	4
+IGF_1_all	Growth hormone secretion	14	4	4
+IGF_1_all	IGF-1 secretion	10	2	2
+IGF_1_all	IGF-1 serum balance	10	6	6
+IGF_1_all	Ras signaling	17	16	6
+Testosterone_female	Synthesis and metabolism	13	7	6
+Testosterone_male	Synthesis and metabolism	21	7	5
+Urate_all	Purine metabolism	16	10	4
+Urate_all	Solute transport	9	4	4

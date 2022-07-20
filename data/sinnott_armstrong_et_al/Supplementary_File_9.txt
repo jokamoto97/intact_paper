@@ -1,0 +1,259 @@
+Subpathway	Gene name	
+Growth hormone secretion	GHSR	
+Growth hormone secretion	GHRHR	
+Growth hormone secretion	GNAI1	
+Growth hormone secretion	GNAI2	
+Growth hormone secretion	GNAI3	
+Growth hormone secretion	GNAS	
+Growth hormone secretion	ADCY1	
+Growth hormone secretion	ADCY2	
+Growth hormone secretion	ADCY3	
+Growth hormone secretion	ADCY4	
+Growth hormone secretion	ADCY5	
+Growth hormone secretion	ADCY6	
+Growth hormone secretion	ADCY7	
+Growth hormone secretion	ADCY8	
+Growth hormone secretion	SSTR2	
+Growth hormone secretion	SSTR3	
+Growth hormone secretion	SSTR4	
+Growth hormone secretion	SSTR5	
+Growth hormone secretion	PRKACA	
+Growth hormone secretion	PRKACB	
+Growth hormone secretion	PRKACG	
+Growth hormone secretion	EP300	
+Growth hormone secretion	FOS	
+Growth hormone secretion	CREB3L1	
+Growth hormone secretion	CREB3L2	
+Growth hormone secretion	CREB3L3	
+Growth hormone secretion	CREB3L4	
+Growth hormone secretion	CREB1	
+Growth hormone secretion	CREB3	
+Growth hormone secretion	CREB5	
+Growth hormone secretion	GH1	
+Growth hormone secretion	GH2	
+IGF-1 secretion	GHR	
+IGF-1 secretion	JAK1	
+IGF-1 secretion	JAK2	
+IGF-1 secretion	TYK2	
+IGF-1 secretion	STAT1	
+IGF-1 secretion	STAT3	
+IGF-1 secretion	STAT5A	
+IGF-1 secretion	STAT5B	
+IGF-1 secretion	SH2B1	
+IGF-1 secretion	SH2B3	
+IGF-1 secretion	SOCS1	
+IGF-1 secretion	SOCS2	
+IGF-1 secretion	SOCS3	
+IGF-1 secretion	EP300	
+IGF-1 serum balance	IGF1	
+IGF-1 serum balance	IGF2	
+IGF-1 serum balance	INS	
+IGF-1 serum balance	INS-IGF2	
+IGF-1 serum balance	INSL4	
+IGF-1 serum balance	INSL6	
+IGF-1 serum balance	INSL5	
+IGF-1 serum balance	IGFBP1	
+IGF-1 serum balance	IGFBP2	
+IGF-1 serum balance	IGFBP3	
+IGF-1 serum balance	IGFBP4	
+IGF-1 serum balance	IGFBP5	
+IGF-1 serum balance	IGFBP6	
+IGF-1 serum balance	PAPPA2	
+IGF-1 serum balance	PAPPA	
+IGF-1 serum balance	IGFALS	
+No pathway	THRA	
+No pathway	TMEM219	
+Downstream signaling	IGF1R	
+Downstream signaling	IGF2R	
+Downstream signaling	INSR	
+Downstream signaling	IRS1	
+Downstream signaling	IRS2	
+Downstream signaling	PIK3CA	
+Downstream signaling	PIK3CB	
+Downstream signaling	PIK3CG	
+Downstream signaling	PIK3CG	
+Downstream signaling	PIK3CD	
+Downstream signaling	PIK3C2A	
+Downstream signaling	PIK3C2B	
+Downstream signaling	PIK3C2G	
+Downstream signaling	PIK3R1	
+Downstream signaling	PIK3R2	
+Downstream signaling	PIK3R3	
+Downstream signaling	PIK3R4	
+Downstream signaling	PIK3R5	
+Downstream signaling	PIK3R6	
+Downstream signaling	PIK3AP1	
+Downstream signaling	PIK3IP1	
+Downstream signaling	PTEN	
+Downstream signaling	AKT1	
+Downstream signaling	AKT2	
+Downstream signaling	AKT3	
+Downstream signaling	AKT4	
+Downstream signaling	FOXO1	
+Downstream signaling	FOXO2	
+Downstream signaling	FOXO3	
+Downstream signaling	FOXO4	
+Downstream signaling	SH2B1	
+Ras signaling	SHC1	
+Ras signaling	SHC2	
+Ras signaling	SHC3	
+Ras signaling	SHC4	
+Ras signaling	RIN1	
+Ras signaling	RIN2	
+Ras signaling	RIN3	
+Ras signaling	RIN4	
+Ras signaling	RAF1	
+Ras signaling	RAF2	
+Ras signaling	DIRAS3	
+Ras signaling	NRAS	
+Ras signaling	HRAS	
+Ras signaling	RRAS2	
+Ras signaling	KRAS	
+Ras signaling	RASA3	
+Ras signaling	RASD1	
+Ras signaling	DIRAS1	
+Ras signaling	RASIP1	
+Ras signaling	RRAS	
+Ras signaling	RASD2	
+Ras signaling	RASSF1	
+Ras signaling	MRAS	
+Ras signaling	RASA2	
+Ras signaling	HRASLS	
+Ras signaling	RASSF6	
+Ras signaling	FRAS1	
+Ras signaling	RASA1	
+Ras signaling	RASA4B	
+Ras signaling	RASA4	
+Ras signaling	ERAS	
+Ras signaling	RAB42	
+Ras signaling	RAB3B	
+Ras signaling	RABGGTB	
+Ras signaling	RAB13	
+Ras signaling	RAB25	
+Ras signaling	RABGAP1L	
+Ras signaling	RABIF	
+Ras signaling	RAB7L1	
+Ras signaling	RAB3GAP2	
+Ras signaling	RAB4A	
+Ras signaling	RAB18	
+Ras signaling	RAB11FIP2	
+Ras signaling	RAB3IL1	
+Ras signaling	RAB1B	
+Ras signaling	RAB6A	
+Ras signaling	RAB30	
+Ras signaling	RAB38	
+Ras signaling	RAB5B	
+Ras signaling	RAB3IP	
+Ras signaling	RAB21	
+Ras signaling	RAB35	
+Ras signaling	RAB20	
+Ras signaling	RAB2B	
+Ras signaling	RABGGTA	
+Ras signaling	RAB15	
+Ras signaling	RAB27A	
+Ras signaling	RAB8B	
+Ras signaling	RAB11A	
+Ras signaling	RAB11FIP3	
+Ras signaling	RAB40C	
+Ras signaling	RAB26	
+Ras signaling	RABEP2	
+Ras signaling	RABEP1	
+Ras signaling	RAB34	
+Ras signaling	RAB11FIP4	
+Ras signaling	RAB5C	
+Ras signaling	RAB37	
+Ras signaling	RAB40B	
+Ras signaling	RAB12	
+Ras signaling	RAB31	
+Ras signaling	RAB27B	
+Ras signaling	RAB11B	
+Ras signaling	RAB3D	
+Ras signaling	RAB8A	
+Ras signaling	RAB3A	
+Ras signaling	RAB4B	
+Ras signaling	RABAC1	
+Ras signaling	RAB10	
+Ras signaling	RAB1A	
+Ras signaling	RAB11FIP5	
+Ras signaling	RABL2A	
+Ras signaling	RAB6C	
+Ras signaling	RAB3GAP1	
+Ras signaling	RAB17	
+Ras signaling	RAB22A	
+Ras signaling	RAB36	
+Ras signaling	RABL2B	
+Ras signaling	RAB5A	
+Ras signaling	RABL3	
+Ras signaling	RAB7A	
+Ras signaling	RAB43	
+Ras signaling	RAB6B	
+Ras signaling	RAB28	
+Ras signaling	RAB33B	
+Ras signaling	RAB3C	
+Ras signaling	RAB24	
+Ras signaling	RAB44	
+Ras signaling	RAB23	
+Ras signaling	RAB32	
+Ras signaling	RABGEF1	
+Ras signaling	RABL5	
+Ras signaling	RAB19	
+Ras signaling	RAB11FIP1	
+Ras signaling	RAB2A	
+Ras signaling	RAB1C	
+Ras signaling	RAB14	
+Ras signaling	RABGAP1	
+Ras signaling	RABEPK	
+Ras signaling	RAB9A	
+Ras signaling	RAB41	
+Ras signaling	RAB40AL	
+Ras signaling	RAB40A	
+Ras signaling	RAB9B	
+Ras signaling	RAB33A	
+Ras signaling	RAB39B	
+Ras signaling	MAP3K6	
+Ras signaling	MAP3K8	
+Ras signaling	MAPK8	
+Ras signaling	MAPK8IP1	
+Ras signaling	MAP4K2	
+Ras signaling	MAP3K11	
+Ras signaling	MAP3K12	
+Ras signaling	MAP4K5	
+Ras signaling	MAP3K9	
+Ras signaling	MAPK6	
+Ras signaling	MAP2K1	
+Ras signaling	MAP2K5	
+Ras signaling	MAPK8IP3	
+Ras signaling	MAPK3	
+Ras signaling	MAP2K4	
+Ras signaling	MAPK7	
+Ras signaling	MAP2K3	
+Ras signaling	MAP3K14	
+Ras signaling	MAPT	
+Ras signaling	MAP3K3	
+Ras signaling	MAP2K6	
+Ras signaling	MAPK4	
+Ras signaling	MAP2K2	
+Ras signaling	MAP2K7	
+Ras signaling	MAP4K1	
+Ras signaling	MAP3K10	
+Ras signaling	MAP4K3	
+Ras signaling	MAP4K4	
+Ras signaling	MAP3K2	
+Ras signaling	MAPK1	
+Ras signaling	MAPK12	
+Ras signaling	MAPK11	
+Ras signaling	MAPK8IP2	
+Ras signaling	MAP6D1	
+Ras signaling	MAP3K13	
+Ras signaling	MAPK10	
+Ras signaling	MAP3K1	
+Ras signaling	MAP1B	
+Ras signaling	MAPK9	
+Ras signaling	MAPK14	
+Ras signaling	MAPK13	
+Ras signaling	MAP3K7	
+Ras signaling	MAP3K5	
+Ras signaling	MAP3K4	
+Ras signaling	MAPK15	
+Ras signaling	MAPKAP1	
+Ras signaling	MAP3K15	

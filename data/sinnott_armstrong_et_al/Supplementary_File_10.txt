@@ -1,0 +1,82 @@
+Type	Kegg gene id	Kegg pathway step ID	Gene name
+Synthesis and metabolism	hsa:100861540	[EC:1.14.14.1]	CYP3A7
+Synthesis and metabolism	hsa:10720	[EC:2.4.1.17]	UGT2B11
+Synthesis and metabolism	hsa:10941	[EC:2.4.1.17]	UGT2A1
+Synthesis and metabolism	hsa:1109	[EC:1.1.1.50 1.1.1.357 1.1.1.225]	AKR1C4
+Synthesis and metabolism	hsa:1312	[EC:2.1.1.6]	COMT
+Synthesis and metabolism	hsa:1543	[EC:1.14.14.1]	CYP1A1
+Synthesis and metabolism	hsa:1544	[EC:1.14.14.1]	CYP1A2
+Synthesis and metabolism	hsa:1545	[EC:1.14.14.1]	CYP1B1
+Synthesis and metabolism	hsa:1551	[EC:1.14.14.1]	CYP3A7
+Synthesis and metabolism	hsa:1571	[EC:1.14.13.-]	CYP2E1
+Synthesis and metabolism	hsa:1576	[EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.13.-]	CYP3A4
+Synthesis and metabolism	hsa:1577	[EC:1.14.14.1]	CYP3A5
+Synthesis and metabolism	hsa:1581	[EC:1.14.14.23]	CYP7A1
+Synthesis and metabolism	hsa:1583	[EC:1.14.15.6]	CYP11A1
+Synthesis and metabolism	hsa:1584	[EC:1.14.15.4]	CYP11B1
+Synthesis and metabolism	hsa:1585	[EC:1.14.15.4 1.14.15.5]	CYP11B2
+Synthesis and metabolism	hsa:1586	[EC:1.14.14.19 1.14.14.32]	CYP17A1
+Synthesis and metabolism	hsa:1588	[EC:1.14.14.14]	CYP19A1
+Synthesis and metabolism	hsa:1589	[EC:1.14.14.16]	CYP21A2
+Synthesis and metabolism	hsa:1645	[EC:1.1.1.149 1.1.1.357 1.3.1.20]	AKR1C1
+Synthesis and metabolism	hsa:1646	[EC:1.1.1.213 1.1.1.357]	AKR1C2
+Synthesis and metabolism	hsa:220074	[EC:2.1.1.6]	LRTOMT
+Synthesis and metabolism	hsa:3283	[EC:1.1.1.145 5.3.3.1]	HSD3B1
+Synthesis and metabolism	hsa:3284	[EC:1.1.1.145 5.3.3.1]	HSD3B2
+Synthesis and metabolism	hsa:3290	[EC:1.1.1.146]	HSD11B1
+Synthesis and metabolism	hsa:3291	[EC:1.1.1.-]	HSD11B2
+Synthesis and metabolism	hsa:3292	[EC:1.1.1.62]	HSD17B1
+Synthesis and metabolism	hsa:3293	[EC:1.1.1.64]	HSD17B3
+Synthesis and metabolism	hsa:3294	[EC:1.1.1.62 1.1.1.239]	HSD17B2
+Synthesis and metabolism	hsa:412	[EC:3.1.6.2]	STS
+Synthesis and metabolism	hsa:51144	[EC:1.1.1.62 1.1.1.330]	HSD17B12
+Synthesis and metabolism	hsa:51478	[EC:1.1.1.62 1.1.1.270]	HSD17B7
+Synthesis and metabolism	hsa:54490	[EC:2.4.1.17]	UGT2B28
+Synthesis and metabolism	hsa:54575	[EC:2.4.1.17]	UGT1A10
+Synthesis and metabolism	hsa:54576	[EC:2.4.1.17]	UGT1A8
+Synthesis and metabolism	hsa:54577	[EC:2.4.1.17]	UGT1A7
+Synthesis and metabolism	hsa:54578	[EC:2.4.1.17]	UGT1A6
+Synthesis and metabolism	hsa:54579	[EC:2.4.1.17]	UGT1A5
+Synthesis and metabolism	hsa:54600	[EC:2.4.1.17]	UGT1A9
+Synthesis and metabolism	hsa:54657	[EC:2.4.1.17]	UGT1A4
+Synthesis and metabolism	hsa:54658	[EC:2.4.1.17]	UGT1A1
+Synthesis and metabolism	hsa:54659	[EC:2.4.1.17]	UGT1A3
+Synthesis and metabolism	hsa:574537	[EC:2.4.1.17]	UGT2A2
+Synthesis and metabolism	hsa:6715	[EC:1.3.1.22]	SRD5A1
+Synthesis and metabolism	hsa:6716	[EC:1.3.1.22]	SRD5A2
+Synthesis and metabolism	hsa:6718	[EC:1.3.1.3]	AKR1D1
+Synthesis and metabolism	hsa:6783	[EC:2.8.2.4]	SULT1E1
+Synthesis and metabolism	hsa:6820	[EC:2.8.2.2]	SULT2B1
+Synthesis and metabolism	hsa:7363	[EC:2.4.1.17]	UGT2B4
+Synthesis and metabolism	hsa:7364	[EC:2.4.1.17]	UGT2B7
+Synthesis and metabolism	hsa:7365	[EC:2.4.1.17]	UGT2B10
+Synthesis and metabolism	hsa:7366	[EC:2.4.1.17]	UGT2B15
+Synthesis and metabolism	hsa:7367	[EC:2.4.1.17]	UGT2B17
+Synthesis and metabolism	hsa:79154	[EC:1.1.1.62 1.1.1.270]	DHRS11
+Synthesis and metabolism	hsa:7923		HSD17B8
+Synthesis and metabolism	hsa:79644	[EC:1.3.1.22 1.3.1.94]	SRD5A3
+Synthesis and metabolism	hsa:79799	[EC:2.4.1.17]	UGT2A3
+Synthesis and metabolism	hsa:8630		HSD17B6
+Synthesis and metabolism	hsa:8644	[EC:1.1.1.51 1.1.1.188 1.1.1.213 1.1.1.357]	AKR1C3
+Synthesis and metabolism	hsa:9420	[EC:1.14.14.29]	CYP7B1
+Serum homeostasis			SLCO1B3
+Serum homeostasis			LRP2
+Serum homeostasis			ABCG2
+Serum homeostasis			SHBG
+Serum homeostasis			ALB
+HPG signaling			FSHB
+HPG signaling			FSHR
+HPG signaling			LHB
+HPG signaling			LHCGR
+HPG signaling			GNRH1
+HPG signaling			GNRHR
+HPG signaling			NR0B2
+HPG signaling			FKBP4
+HPG signaling			AR
+HPG signaling			GPRC6A
+HPG signaling			KISS1
+HPG signaling			KISS1R
+HPG signaling			TACR3
+HPG signaling			TAC3
+HPG signaling			PDYN
+HPG signaling			OPRK1
