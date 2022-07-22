@@ -43,9 +43,9 @@ If you are interested in a certain part of our work, you can save time by only r
 
 
 # Hukku et al. data analysis (GO term enrichment analysis)
-*This step may take several hours to run
+*This step may take several hours to run.
 
-```snakemake go_gse'''
+```snakemake go_gse```
 ```snakemake summarize_go_gse```
 
 
