@@ -1,8 +1,7 @@
-This directory contains all data and code necessary to reproduce the analysis from Okamoto et al. 2022.
+This directory contains all data and code necessary to reproduce the analysis from Okamoto et al. 2022 https://doi.org/10.1101/2022.07.19.500651.
 To run all analyses, first, be sure that you have the following software packages installed:
 
-    bedtools (v2.22.0),
-
+bedtools (v2.22.0),
 R packages:
     stringr (1.4.0),
     fgsea (1.12.0),
