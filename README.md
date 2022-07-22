@@ -1,4 +1,4 @@
-This directory contains all data and code necessary to reproduce the analysis from Okamoto et al. 2022. 
+This directory contains all data and code necessary to reproduce the analysis from Okamoto et al. 2022.
 To run all analyses, first, be sure that you have the following software packages installed:
 
     bedtools (v2.22.0)
@@ -16,7 +16,7 @@ R packages:
 
 Then, execute
 
-snakemake --cores 8 all
+```snakemake --cores 8 all```
 
 
 The above command reproduces each figure, table, and supplemental file from the manuscript. Results are generated in the output/ directory.
@@ -29,32 +29,35 @@ The above command reproduces each figure, table, and supplemental file from the 
 If you are interested in a certain part of our work, you can save time by only running parts of the analysis:
 
 
-##Simulation analysis##:
+#Simulation analysis:
 
-snakemake simulation_study
-
-
-
-##Hukku et al. data analysis (everything but the GO term enrichment analysis)##
-
-snakemake real_data_hukku
+```snakemake simulation_study```
 
 
 
-##Hukku et al. data analysis (GO term enrichment analysis)##
+#Hukku et al. data analysis (everything but the GO term enrichment analysis)
+
+```snakemake real_data_hukku```
+
+
+
+#Hukku et al. data analysis (GO term enrichment analysis)
 *This step may take several hours to run
 
-snakemake go_gse
+```snakemake go_gse
 
-snakemake summarize_go_gse
-
-
-
-##Sinnott-Armstrong data analysis##
-
-snakemake real_data_sinnott_armstrong_bedtools_intersect
-
-snakemake real_data_sinnott_armstrong
+snakemake summarize_go_gse```
 
 
 
+#Sinnott-Armstrong data analysis
+
+```snakemake real_data_sinnott_armstrong_bedtools_intersect
+
+snakemake real_data_sinnott_armstrong```
+
+
+#Support
+
+
+Please contact xwen@umich.edu or jokamoto@umich.edu if you have any questions.
