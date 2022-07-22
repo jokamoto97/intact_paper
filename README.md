@@ -30,6 +30,7 @@ If you are interested in a certain part of our work, you can save time by only r
 
 
 # Simulation analysis:
+*We do not include the code to generate the simulated data since it relies on individual-level GTEx genotypes.
 
 ```snakemake simulation_study```
 
